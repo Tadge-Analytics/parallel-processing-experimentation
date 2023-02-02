@@ -42,7 +42,7 @@ tictoc::tic()
 
 library(tidyverse)
 library(furrr) 
-
+library(readxl)
 
 # this also loads the future package
 
